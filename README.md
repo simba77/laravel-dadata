@@ -2,11 +2,15 @@
 
 Пакет работы с сервисом [DaData.ru]https://dadata.ru, для исправления синтаксических ошибок в информации контактных данных клиентов сайта и вывода подсказок поля форм.
 
+## Замечание
+
+Это копия пакета fomvasss/laravel-dadata. Была создана т.к. исходный пакет был удален автором.
+
 ## Установка
 
 Запустить:
 ```bash
-composer require "fomvasss/laravel-dadata"
+composer require "simba77/laravel-dadata"
 ```
 ---
 __Для Laravel < 5.5:__
